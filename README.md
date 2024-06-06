@@ -1,1 +1,1 @@
-![prview]imgs/logo.png
+![prview]i(mgs/logo.png)
